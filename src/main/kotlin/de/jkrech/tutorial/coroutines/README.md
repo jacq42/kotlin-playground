@@ -1,6 +1,6 @@
 # Coroutines
 
-See [Coroutines Guide](https://kotlinlang.org/docs/coroutines-guide.html)
+See [Coroutines Guide](https://kotlinlang.org/docs/coroutines-guide.html) in Kotlin documentation.
 
 * Feature for asynchronous and non-blocking programming
 * It is conceptually similar to a thread
