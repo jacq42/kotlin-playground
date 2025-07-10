@@ -6,6 +6,7 @@ import kotlinx.coroutines.launch
 import kotlinx.coroutines.runBlocking
 
 // start multiple concurrent operations
+// result: prints "Hello" immediately, then "World 1" after 1s and "World 2" after 2s
 
 fun main() = runBlocking {
     doWorld04()
