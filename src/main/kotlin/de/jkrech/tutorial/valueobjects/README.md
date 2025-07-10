@@ -4,3 +4,5 @@ Value objects are a way to represent immutable data in Kotlin. They are often us
 
 * Example of a value object: See [VeryImportantId](VeryImportantId.kt)
 * Use of a value object: See [Tutorial](Tutorial01.kt)
+
+The init method can be used to validate the values: See [ISBN](Isbn.kt)
